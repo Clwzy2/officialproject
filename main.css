@@ -4228,7 +4228,7 @@ code {
 }
 
 .visual-refresh:not(.platform-osx) .leading_c38106::before {
-    content: "BlackPhone Mafia";
+    content: "OfficialProject";
     position: static;
     margin-left: 10px;
     font-size: 16px;
@@ -4239,7 +4239,7 @@ code {
 }
 
 .visual-refresh:not(.platform-osx) .leading_c38106::after {
-    content: "EmeraldRp";
+    content: "EA7 FERMAS";
     position: static;
     margin-top: -5px;
     margin-left: 5px;
