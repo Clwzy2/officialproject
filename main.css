@@ -4125,7 +4125,7 @@ code {
     --streaming-color: #593695;
     --offline-color: #808080;
     --background-shading-percent: 100%;
-    --background-image: url(https://OfficialProject.github.io/images/sapphire.jpg);
+    --background-image: url(https://media.discordapp.net/attachments/1357819307471671356/1393356023871443004/Official_Project_Banner.png?ex=6872df6b&is=68718deb&hm=3bf7760555cb13ab24c5dae8f4bb1f2554c8448cd54687a4aac62a0b8a9759b2&=&width=1440&height=810);
     --background-position: center;
     --background-size: cover;
     --background-attachment: fixed;
@@ -4140,7 +4140,7 @@ code {
     --user-modal-size: var(--background-size);
     --user-modal-attachment: var(--background-attachment);
     --user-modal-filter: var(--background-filter);
-    --home-icon: url(https://OfficialProject.github.io/icons/discord.svg);
+    --home-icon: url(https://media.discordapp.net/attachments/1357819307471671356/1393355591702941716/dragonpng_1.png?ex=6872df04&is=68718d84&hm=16aed4cee362800d84021b8d32d5c25afcfe19bce83cfc0aee749738095cc448&=&width=750&height=750g);
     --home-size: cover;
     --main-font: "gg sans", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
     --code-font: Consolas, "gg mono", "Liberation Mono", Menlo, Courier, monospace;
